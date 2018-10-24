@@ -21,6 +21,6 @@ Options:
   
   -P PORT, --port=PORT  The ES port (default port is 9200
   
-example: return
+# Example output
 
 green cluster name: testcluster nodes : 2, master: name_master slave: [u'slave1', u'slave2'] unassigned_shards: 0
